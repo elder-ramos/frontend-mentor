@@ -17,7 +17,7 @@
 
 # Avoid template/design
 README-template.md
-design/
+./design/
 
 # Avoid style guide
 style-guide.md
