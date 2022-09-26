@@ -22,7 +22,8 @@ body{
     border-radius: 5%;
     box-shadow: 3px 3px 10px hsl(220, 15%, 55%);
 
-    min-width: 100px;
+    min-width: 110px;
+    max-width: fit-content;
 }
 
 img{
