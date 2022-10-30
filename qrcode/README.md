@@ -15,9 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./screenshots/computer.png)
-Computer
+Desktop
 
 ![](./screenshots/iphone.png)
+
 Mobile
 
 ### Built with
