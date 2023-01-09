@@ -1,0 +1,25 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+main{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#cardBack{
+    margin-left: -350px;
+    margin-bottom: 200px;
+}
+
+#cardFront{
+    margin-left: -300px;
+    margin-bottom: 500px;
+}
+
+section{
+    
+}
