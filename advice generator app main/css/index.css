@@ -23,9 +23,10 @@ main{
     justify-content: center;
     align-items: center;
     margin-top: 30vh;
-
+    border-radius: 20px;
     flex-direction: column;
     background-color: hsl(217, 19%, 24%);
+    text-align: center;
 }
 
 #divider{
@@ -57,8 +58,16 @@ button{
     cursor: pointer;
 }
 
-@media only screen and (max-width: 375){
+@media only screen and (max-width: 600px){
+    main{
+        width: 85vw;
+    }
     #divider{
-        background-image: url(images/divider-mobile.svg);
+        background: url(images/divider-mobile.svg);
+    }
+}
+@media only screen and (max-width: 300px){
+    #divider{
+        display: none;
     }
 }
